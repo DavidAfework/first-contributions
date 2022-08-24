@@ -2169,4 +2169,5 @@
 - [Syed Ali](https://github.com/shahzaib)
 - [Genshi](https://github.com/Genshisama)
 - [Maple Z.](https://github.com/maplezoo)
+- [d.afework](https://github.com/DavidAfework)
 <!-- prettier-ignore-end -->
